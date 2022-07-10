@@ -55,6 +55,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
   const farenheitConvert = arrayOfNumbers.map((num) => {
     return Math.trunc((num * 9/5) + 32)
   })
+  
     return farenheitConvert;
 }
  assignment.celsiusToFahrenheit = celsiusToFahrenheit;
