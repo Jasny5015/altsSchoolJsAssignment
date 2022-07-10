@@ -33,6 +33,7 @@ function sumOfNumbers(arrayOfNumbers) {
  * @returns number the count of even numbers
  */
 function countEvenNumbers(arrayOfNumbers) {
+  
     return arrayOfNumbers.length;
 }
  // assignment.countEvenNumbers = countEvenNumbers;
