@@ -19,7 +19,7 @@ function sumOfNumbers(arrayOfNumbers) {
   })
 
   return sum
-   arrayOfNumbers.length;
+   //arrayOfNumbers.length;
 }
  assignment.sumOfNumbers = sumOfNumbers;
 
